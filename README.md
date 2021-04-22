@@ -7,6 +7,6 @@ The project is divided in to two parts: load_dataset_module, feature module.
   ### feature module : 
   extraction of statistical features takes place in feature module
   
-  The result is saved in another csv file.
-  ---------------------------------------
+  ##### The result is saved in another csv file.
+
   
