@@ -128,7 +128,7 @@ def main(text):
         print('-----------Program Ended--------- ')
 
 
-print('Human Activity Recognition  systems')
+print('Human Activity Recognition  systems') 
 print('Welcome to Human activity recognition System , We helps you calculate accurate and fast statistical features '
       'of your data ')
 print('--------------------------------------------------------------------------')
