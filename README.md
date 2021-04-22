@@ -1,5 +1,5 @@
 # Human-Activity-Context-Recognition
-This is a subpart of an ML project where the statisctical features are extracted from the sensor reading for a human activity context recognition project.
+This is a subpart of an ML project where the statistical features are extracted from the sensor reading inorder to feed it to the ML model.
 
 The project is divided in to two parts: load_dataset_module, feature module.
   ### load dataset module: 
